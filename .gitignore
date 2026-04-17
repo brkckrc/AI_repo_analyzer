@@ -1,0 +1,12 @@
+bin/
+obj/
+
+output/
+
+.vs/
+.vscode/
+.cursor/
+
+*.user
+*.suo
+*.cache
